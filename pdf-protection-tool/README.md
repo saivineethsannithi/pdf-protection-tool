@@ -185,4 +185,5 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ---
 
-> Built with ❤️ by [Inlighn Tech](https://github.com/your-username)
+> Built with [Inlighn Tech]
+
